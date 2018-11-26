@@ -36,8 +36,8 @@ public class SwaggerConfig {
 
     private ApiInfo metadata() {
         return new ApiInfoBuilder()
-                .title("Go-Student CAS API")
-                .description("Go-Student : Course Assignment Service")
+                .title("NotificationAppService ContactSevice API")
+                .description("NotificationAppService ContactSevice API")
                 .version("1.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0")
                 .build();
